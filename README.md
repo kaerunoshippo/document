@@ -1,2 +1,2 @@
 # document
-メモやTipsなど
+メモやTipsなど置いていきます。
